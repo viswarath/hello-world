@@ -1,2 +1,6 @@
 # hello-world
-first time
+first tim e
+
+Hi everyone,
+
+I am learning
